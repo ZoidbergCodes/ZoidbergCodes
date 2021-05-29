@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZoidbergCodes
 - 👀 I’m interested in Python, Java, and JavaScript
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing really, not ready yet.
 - 📫 How to reach me is nowhere. 
 
