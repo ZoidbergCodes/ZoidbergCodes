@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZoidbergCodes.
 - 👀 I’m interested in C++.
 - 🌱 I’m currently not learning anything.
-- 💞️ I’m looking to collaborate on nothing really, not ready yet.
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me is nowhere. 
 
 <!---
